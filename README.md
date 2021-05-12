@@ -32,10 +32,10 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://github.com/brujavsen/stats-preview-card
 - Live Site URL:
-GitHub:  
-Netlify: https://app.netlify.com/sites/stats-preview-card-component-main-bruno/settings/general
+GitHub: https://brujavsen.github.io/stats-preview-card/
+Netlify: https://stats-preview-card-component-main-bruno.netlify.app/
 
 ## My process
 
